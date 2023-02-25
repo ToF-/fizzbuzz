@@ -1,4 +1,4 @@
-\ initialize the pad with an empty string
+\ initialize the pad with an empty string 
 : empty-pad
   0 pad c! ;
 
